@@ -5,12 +5,11 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
+    "android": {
+      "package": "com.brunkeralf.lagergtp5"
+    },
     "sdkVersion": "51.0.0",
     "extra": {
       "eas": {
         "projectId": "b8feaa2e-70d6-413d-b694-16c65ba50694"
       }
-    },
-    "assetBundlePatterns": ["**/*"]
-  }
-}

@@ -6,11 +6,11 @@
     "orientation": "portrait",
     "platforms": ["android"],
     "sdkVersion": "51.0.0",
-    "updates": {
-      "fallbackToCacheTimeout": 0
+    "extra": {
+      "eas": {
+        "projectId": "b8feaa2e-70d6-413d-b694-16c65ba50694"
+      }
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }

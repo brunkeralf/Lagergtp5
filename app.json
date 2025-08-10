@@ -13,3 +13,7 @@
       "eas": {
         "projectId": "b8feaa2e-70d6-413d-b694-16c65ba50694"
       }
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
